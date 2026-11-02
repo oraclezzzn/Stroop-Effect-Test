@@ -15,7 +15,7 @@ To protect participant confidentiality:
 * The application runs entirely locally in your web browser's memory. 
 * Once the browser tab is closed or refreshed, all temporary session data is permanently erased.
 
-## 🔍 Researcher Tools (For Evaluation)
+## Researcher Tools (For Evaluation)
 At the end of the test, evaluators can press the **`S`** key on their keyboard to reveal the hidden **Researcher Panel**. 
 
 This panel calculates and displays the live Stroop Interference Score for the current session, similar to what we see when we are actually parsing the data.
